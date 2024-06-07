@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 9e0ba82150b6a4d4cb991d09b9ada21c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17697349632
+    m_Localized: Oyna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6735160418304
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7750043574272
+    m_Localized: "Se\xE7mek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7807430041600
+    m_Localized: "M\xFCzik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7840112058368
+    m_Localized: Efektleri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128403324928
+    m_Localized: "Do\u011Frulamak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46890474807296
+    m_Localized: "Sar\u0131 bloklar\u0131 yukar\u0131 kayd\u0131rmak i\xE7in \"W\"
+      ye bas\u0131n\r\n\r\nSar\u0131 bloklar\u0131 a\u015Fa\u011F\u0131 kayd\u0131rmak
+      i\xE7in \"S\" ye bas\u0131n\r\n\r\nMor bloklar\u0131 sola kayd\u0131rmak i\xE7in
+      \"A\" tu\u015Funa bas\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47399747198976
+    m_Localized: "Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47733597020160
+    m_Localized: "Yeniden ba\u015Flatmak i\xE7in \"R\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53303632732160
+    m_Localized: "Seviye ge\xE7ildi!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801292328378368
+    m_Localized: Kapat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801651612459008
+    m_Localized: "\u0130yi e\u011Flenceler <3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802274651152384
+    m_Localized: "Oyunu tamamlad\u0131\u011F\u0131n\u0131z i\xE7in te\u015Fekk\xFCr
+      ederiz!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804809046761472
+    m_Localized: Devam etmek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 805003834433536
+    m_Localized: "S\xFCrd\xFCrmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 807335531913216
+    m_Localized: "Ana men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1750547595534336
+    m_Localized: Dil
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

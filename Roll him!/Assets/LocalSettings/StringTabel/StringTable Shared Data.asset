@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 9e0ba82150b6a4d4cb991d09b9ada21c
+  m_Entries:
+  - m_Id: 17697349632
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6735160418304
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7750043574272
+    m_Key: Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7807430041600
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7840112058368
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128403324928
+    m_Key: Confrim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46890474807296
+    m_Key: FirstTutor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47399747198976
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47733597020160
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53303632732160
+    m_Key: CongratulationsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801292328378368
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801651612459008
+    m_Key: EnjoyGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802274651152384
+    m_Key: Thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804809046761472
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 805003834433536
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 807335531913216
+    m_Key: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1750547595534336
+    m_Key: Locale
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8177775583127928856
+  references:
+    version: 2
+    RefIds:
+    - rid: 8177775583127928856
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716806068881

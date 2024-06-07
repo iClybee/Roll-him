@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9e0ba82150b6a4d4cb991d09b9ada21c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17697349632
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6735160418304
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7750043574272
+    m_Localized: Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7807430041600
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7840112058368
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46128403324928
+    m_Localized: Confrim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46890474807296
+    m_Localized: 'Press "W" to move the yellow blocks up
+
+
+      Press "S" to move
+      the yellow blocks down
+
+
+      Press "A" to move the purple blocks to the left
+
+
+
+      Press
+      "D" to move the purple blocks to the right'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47399747198976
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47733597020160
+    m_Localized: '"R"  to restart'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53303632732160
+    m_Localized: Level passed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801292328378368
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801651612459008
+    m_Localized: Enjoy the game <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802274651152384
+    m_Localized: Thank you for completing the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804809046761472
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 805003834433536
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 807335531913216
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1750547595534336
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
